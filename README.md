@@ -1,4 +1,4 @@
-# Idcard by using pab
+# Idcard by using pcb
 This is a simple program that i made a idcard by pcb.It's very cool!
 ## This is the schematic diagram, very simple,isn't it?
 ![Snipaste_2022-03-10_20-42-18](https://user-images.githubusercontent.com/36893724/157664892-a7bf1b1a-56fc-4a23-9329-32f6f5bd838d.png)
