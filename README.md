@@ -7,4 +7,4 @@ This is a simple program that i made a idcard by pcb.It's very cool!
 ![Snipaste_2022-03-10_20-42-00](https://user-images.githubusercontent.com/36893724/157664916-cbdf59aa-77a2-4a9f-bf15-c6283ed59cbd.png)
 
 You can open the json souce file by using JLCeda.Or , you can also open anther file by AD.
-And if you just want a idcard just like mine, you can sent the Gener file to pcb printing factory.
+And if you just want a idcard just like mine, you can sent the Gerber file to pcb printing factory.
