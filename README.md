@@ -1,8 +1,8 @@
-# IDcard by pcb
+# Idcard by pcb
 [![Stars](https://img.shields.io/github/stars/godmid/pcb_idcard)](https://github.com/godmid/pcb_idcard/stargazers)
 [![Forks](https://img.shields.io/github/forks/godmid/pcb_idcard)](https://github.com/godmid/pcb_idcard/network/members)
 ![GitHub repo size](https://img.shields.io/github/repo-size/godmid/pcb_idcard)
-This is a simple program that i made a idcard by pcb.It's very cool!
++ This is a simple program that i made a idcard by pcb.It's very cool!
 ## This is the schematic diagram, very simple,isn't it?
 ![Snipaste_2022-03-10_20-42-18](https://user-images.githubusercontent.com/36893724/157664892-a7bf1b1a-56fc-4a23-9329-32f6f5bd838d.png)
 ## This is the pcb pic
